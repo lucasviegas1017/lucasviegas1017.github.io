@@ -3,7 +3,7 @@
 
 
 
- - ✔ No momento não estou trabalhando
+ - estudando python e javaScript por conta propria
  - ✔19 
  - 🖥 Engenharia de redes de comunicação
 
