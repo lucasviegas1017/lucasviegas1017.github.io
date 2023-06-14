@@ -4,7 +4,7 @@
 
 
  - estudando python
- - <a href:"https://www.xvideos.com >19 anos</a>
+ - 19 anos
  - 🖥 Engenharia de redes de comunicação - UnB
  - "Idéias e somente idéias podem iluminar a escuridão." -Ludwig von Mises
 
