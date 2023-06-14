@@ -5,7 +5,7 @@
 
  - estudando python por conta propria
  - 19 
- - 🖥 Engenharia de redes de comunicação
+ - 🖥 Engenharia de redes de comunicação - UnB
  - "Idéias e somente idéias podem iluminar a escuridão." -Ludwig von Mises
 
 ## Redes Socias
