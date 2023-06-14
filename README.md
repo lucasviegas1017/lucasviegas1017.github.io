@@ -6,6 +6,7 @@
  - estudando python por conta propria
  - 19 
  - 🖥 Engenharia de redes de comunicação
+ - "Idéias e somente idéias podem iluminar a escuridão." -Ludwig von Mises
 
 ## Redes Socias
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucas._viegas)
