@@ -22,7 +22,7 @@
     width: 100%;
     height: 100%;
   
-    background: linear-gradient(0, #08e3d4, #0026ff);
+    background: linear-gradient(0, #02e1bc, #8aa7ff);
   }
   
   button {
@@ -48,8 +48,9 @@
   }
   
   .img-perfil img {
-    width: 160px;
+    width: 140px;
     height: 140px;
+   
   
     border-radius:100px;
   }
@@ -74,6 +75,7 @@
   .social-icons ul li img {
     width: 30px;
     height: 30px;
+    
   }
   
   .social-links {
@@ -86,7 +88,7 @@
   }
   
   .social-links ul li {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
   }
   
   .social-links ul li button {
@@ -94,7 +96,7 @@
     height: 70px;
 
     border-radius: 90px;
-    box-shadow: 20px 5px rgba(220, 220, 220, 0.523);
+    box-shadow: 10px 20px rgba(0, 0, 0, 0.489);
   
     background: #022a73;
     color: #FFF;
@@ -104,6 +106,6 @@
   }
   
   .social-links ul li button:hover {
-    background-color: #54dcdc;
+    background-color: #121414;
   }
   
