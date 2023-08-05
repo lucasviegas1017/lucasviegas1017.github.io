@@ -22,7 +22,7 @@
     width: 100%;
     height: 100%;
   
-    background: linear-gradient(0, #3fcdf4, #4c64ef);
+    background: linear-gradient(0, #08e3d4, #0026ff);
   }
   
   button {
@@ -48,8 +48,8 @@
   }
   
   .img-perfil img {
-    width: 130px;
-    height: 130px;
+    width: 160px;
+    height: 140px;
   
     border-radius:100px;
   }
@@ -68,7 +68,7 @@
   
   .social-icons ul li {
     display: inline-block;
-    margin: 5px;
+    margin: 2px;
   }
   
   .social-icons ul li img {
@@ -86,16 +86,17 @@
   }
   
   .social-links ul li {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
   }
   
   .social-links ul li button {
     width: 100%;
-    height: 60px;
-    
-    border-radius: 60px;
+    height: 70px;
+
+    border-radius: 90px;
+    box-shadow: 20px 5px rgba(220, 220, 220, 0.523);
   
-    background: #000000;
+    background: #022a73;
     color: #FFF;
     font-size: 1.1rem;
   
@@ -105,3 +106,4 @@
   .social-links ul li button:hover {
     background-color: #54dcdc;
   }
+  
