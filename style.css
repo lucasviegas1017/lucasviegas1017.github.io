@@ -3,109 +3,82 @@
     margin: 0;
     box-sizing: border-box;
   }
+
+  html{
+    height:  100vh;
+    font-size: 14px;
+
+  }
   
   body {
+    background: linear-gradient(0,#1e1f1f, #8191be)  ;
     font: 400 1rem 'Roboto', sans-serif;
-  
-    width: 100vw;
-    height: 100vh;
-  
-    overflow: hidden;
-  }
-  
-  main {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-  
-    width: 100%;
     height: 100%;
-  
-    background: linear-gradient(0, #02e1bc, #8aa7ff);
   }
-  
-  button {
-    cursor: pointer;
-    border: 0;
-  }
-  
-  button:focus {
-    outline: none;
-    border: solid 2px #FFF;
-  }
-  
-  .img-perfil {
-    width: 90%;
-    height: 100px;
-  
-    margin-top: 50px;
-  
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: px;
-  }
-  
-  .img-perfil img {
-    width: 140px;
-    height: 140px;
-   
-  
-    border-radius:100px;
-  }
-  .social-icons {
-    width: 100%;
-    height: 100px;
-  
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  
-  .social-icons ul {
-    list-style: none;
-  }
-  
-  .social-icons ul li {
-    display: inline-block;
-    margin: 10px;
-  }
-  
-  .social-icons ul li img {
-    width: 50px;
-    height: 50px;
-    
-  }
-  
-  .social-links {
-    width: 80%;
-    height: auto;
-  }
-  
-  .social-links ul {
-    list-style: none;
-  }
-  
-  .social-links ul li {
-    margin-bottom: 50px;
-  }
-  
-  .social-links ul li button {
-    width: 100%;
-    height: 70px;
 
-    border-radius: 90px;
-    box-shadow: 10px 20px rgba(0, 0, 0, 0.489);
-  
-    background: #022a73;
-    color: #FFF;
-    font-size: 1.1rem;
-  
-    transition: background .3s;
+  .container{
+    height: 100%;
+    max-width: 550px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+    color: #fff ;
+
   }
+   a{
+    text-decoration: none;
+    color:#fff
+   }
+
+.degrade{
+    background: linear-gradient(to right, #044278, #a9d1d5);
+}
+
   
-  .social-links ul li button:hover {
-    background-color: #121414;
+  header{
+    text-align: center;
+    margin-bottom: 40px;
   }
-  
+
+  header img{
+    max-width: 200px;
+    margin-bottom: 2%;
+  }
+   header h1{
+    font-size: 2em;
+    margin-bottom: 10px;
+    color: #000000;
+    font-weight: 300;
+   }
+
+   section.botoes-links{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+   }
+
+   a.link button{
+    width: 100%;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: none;
+    border-radius: 30px;
+    font-size: 1.2em;
+    cursor: pointer;
+    transition: .2s;
+    box-shadow: 5px 8px rgba(0, 0, 0, 0.489);
+    
+
+   }
+
+  a.link i{
+    font-size: 1.5em;
+  }
+  a.link button:hover{
+    transform: scale(1.05);
+  }
+
